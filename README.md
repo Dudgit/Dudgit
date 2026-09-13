@@ -4,6 +4,7 @@
 
 🔬 **Research interests:** Deep Learning, AI for Science, Scientific Machine Learning, Generative Models, and Deep Learning for Scientific & Medical Imaging.
 
+🧑‍💻 Old-school coder, new-school workflow: I can code from scratch, but I also know how to use LLMs to vibe-code effectively.
 
 🧠 My research focuses on applying and developing modern deep learning methods for scientific problems, including:
 - Generative and representation learning
