@@ -30,10 +30,10 @@ I have co-designed and taught courses/material. My currently ongoing lectures ar
 - [New Results in Machine Learning Seminar](https://github.com/csabaiBio/elte_ml_journal_club)
 
 📚 **Selected Research**
-Check out my repositories below for implementations of my research projects and reproducible experiments.
-FLORA — Deep learning for 3D proton imaging and scientific reconstruction. The project explores generative and physics-guided approaches for CT-to-pCT prediction, including latent representation learning and flow-matching models.
-single_cell — Generative and representation learning for single-cell perturbation modeling, using Transformer-based representations and latent adversarial learning. The main focus is preserving biological diversity while maintaining predictive accuracy.
-nr_dose - Deep learning for proton dose prediction, combining scientific/physical information with neural models for 3D dose estimation.
+Check out my repositories below for implementations of my research projects and reproducible experiments.  
+FLORA — Deep learning for 3D proton imaging and scientific reconstruction. The project explores generative and physics-guided approaches for CT-to-pCT prediction, including latent representation learning and flow-matching models.  
+single_cell — Generative and representation learning for single-cell perturbation modeling, using Transformer-based representations and latent adversarial learning. The main focus is preserving biological diversity while maintaining predictive accuracy.  
+nr_dose - Deep learning for proton dose prediction, combining scientific/physical information with neural models for 3D dose estimation.  
 
 Some of my current research projects are not publicly available yet:
 - Histopathology Vision-Language Models — developing and evaluating multimodal models for computational pathology. The project is currently being developed locally and will be made public when appropriate. 
